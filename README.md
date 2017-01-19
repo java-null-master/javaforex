@@ -1,2 +1,0 @@
-# javaforex
-connect to git 
